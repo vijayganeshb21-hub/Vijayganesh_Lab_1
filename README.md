@@ -1,3 +1,4 @@
+Deployed_Link: https://vijayganesh-lab-1.onrender.com/
 # Lab 1: Node.js and Express Server
 
 ## Student Details
@@ -92,25 +93,29 @@ Note: Stop the Express server before starting the plain HTTP server because both
 
 Displays the welcome message.
 
-![Home Route](screenshots/home.png)
+
+<img width="959" height="474" alt="image" src="https://github.com/user-attachments/assets/32accde6-4d1f-46cb-a581-df08de901351" />
 
 ### 2. About Route
 
 Displays student information in JSON format.
 
-![About Route](screenshots/about.png)
+<img width="959" height="479" alt="image" src="https://github.com/user-attachments/assets/5b6f3160-8ce9-4aa4-a9c5-8297ef615947" />
+
 
 ### 3. Time Route
 
 Displays the current date and time.
 
-![Time Route](screenshots/time.png)
+<img width="959" height="473" alt="image" src="https://github.com/user-attachments/assets/968306cf-1376-48c8-ba1a-c0db4b5b58eb" />
+
 
 ### 4. 404 Not Found
 
 Displays an error message for an invalid route.
 
-![404 Not Found](screenshots/not-found.png)
+<img width="959" height="473" alt="image" src="https://github.com/user-attachments/assets/0cf986f7-adb8-4e94-bff5-60c185efa873" />
+
 
 ## Viva Questions and Answers
 
@@ -142,8 +147,7 @@ The `app.listen()` method starts the Express server and listens for incoming req
 **Vijay Ganesh Bonthala**
 
 B.Tech – Computer Science and Engineering  
-II Year – Generative AI Section
+II Year – Aritifical Data Engineering
+Section - 106-2A
 
-## GitHub Repository
 
-[View Lab 1 Source Code](https://github.com/vijayganeshb21-hub/Vijayganesh_Lab_1)
